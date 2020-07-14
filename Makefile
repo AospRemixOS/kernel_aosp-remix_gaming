@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 4
-PATCHLEVEL = 14
-SUBLEVEL = 176
-EXTRAVERSION =
-NAME = Petit Gorille
+VERSION = 5
+PATCHLEVEL = 8
+SUBLEVEL = 362
+EXTRAVERSION = 830 RC3
+NAME = GAMING FOR REMIX ONLY
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
